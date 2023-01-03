@@ -1,0 +1,1 @@
+Assumes Mongo installed in C:\mongodb\bin
