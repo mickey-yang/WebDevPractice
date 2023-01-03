@@ -32,17 +32,21 @@ const seedDB = async () => {
       },
       images: [
         {
-          url: 'https://res.cloudinary.com/deblmn6za/image/upload/v1655318731/YelpCamp/mkuehd933tlq00ggl5hx.jpg',
-          filename: 'YelpCamp/mkuehd933tlq00ggl5hx',
+          url: 'https://res.cloudinary.com/deblmn6za/image/upload/v1665322548/YelpCamp/blake-wisz-TcgASSD5G04-unsplash_mgl9hx.jpg',
+          filename: 'YelpCamp/blake-wisz-TcgASSD5G04-unsplash_mgl9hx',
         },
         {
-          url: 'https://res.cloudinary.com/deblmn6za/image/upload/v1655241738/YelpCamp/csctfqnso3kunxfcodnb.jpg',
-          filename: 'YelpCamp/csctfqnso3kunxfcodnb',
+          url: 'https://res.cloudinary.com/deblmn6za/image/upload/v1665322543/YelpCamp/jonathan-forage-1azAjl8FTnU-unsplash_bogq4r.jpg',
+          filename: 'YelpCamp/jonathan-forage-1azAjl8FTnU-unsplash_bogq4r',
         },
         {
-          url: 'https://res.cloudinary.com/deblmn6za/image/upload/v1655086012/YelpCamp/kw1roppfq2w9choqzlzk.jpg',
-          filename: 'YelpCamp/kw1roppfq2w9choqzlzk',
+          url: 'https://res.cloudinary.com/deblmn6za/image/upload/v1665322538/YelpCamp/jack-sloop-qelGaL2OLyE-unsplash_mu6o58.jpg',
+          filename: 'YelpCamp/jack-sloop-qelGaL2OLyE-unsplash_mu6o58',
         }
+        // {
+        //   url: '/public/resources/campPhotos/blake-wisz-TcgASSD5G04-unsplash.jpg',
+        //   filename: 'Photo Demo'
+        // }
       ],
       description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus molestie lacus ut risus pulvinar, a accumsan urna laoreet. Quisque nec tincidunt libero, at porttitor neque. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam finibus orci nulla, ac sollicitudin sem consectetur vel. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vestibulum mattis dolor. Pellentesque iaculis, nulla quis condimentum bibendum, ante lectus fermentum libero, sed accumsan est mauris sed diam. Maecenas laoreet pharetra lorem vitae ullamcorper. Vivamus at velit metus.',
       price
